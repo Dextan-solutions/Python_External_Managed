@@ -1,4 +1,4 @@
-# Python_External_Managed
+# Python_externally-managed-environment
 This shows how to fix python External Managed Error that comes up when you run pip, pip2, pip3 etc
 Determin the python version using: python --version
 Go to the python folder: cd /usr/lib/python<version no.> e.g for python3.13, cd /usr/lib/python3.13
